@@ -1,5 +1,5 @@
 # FongmiTvMod
-fongmiTVbox魔改多仓版
+fongmiTVbox魔改多仓版（电视盒子版）-- 自用
 
 >dev = 测试版
 >release = 正式版
