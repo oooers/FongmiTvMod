@@ -5,6 +5,7 @@ fongmiTVbox魔改多仓版（电视盒子版）-- 自用
 >release = 正式版
 
 >multiple_source_tvbox.json： 多仓源（含饭太硬，肥猫）
+>multiple_source_tvbox_mod.json： 多仓源mod版（含饭太硬，肥猫）移除toast
 
 完成功能：
 
