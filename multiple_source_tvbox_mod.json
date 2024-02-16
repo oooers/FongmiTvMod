@@ -2,11 +2,11 @@
     "storeHouse": [
         {
             "sourceName": "肥猫",
-            "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/samisold/TvboxJarMod/main/conf/feimao-mod.json"
+            "sourceUrl": "https://raw.kkgithub.com/samisold/TvboxJarMod/main/conf/feimao-mod.json"
         },
         {
             "sourceName": "饭太硬",
-            "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/samisold/TvboxJarMod/main/conf/fan-mod.json"
+            "sourceUrl": "https://raw.kkgithub.com/samisold/TvboxJarMod/main/conf/fan-mod.json"
         }
     ]
 }
